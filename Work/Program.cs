@@ -9,7 +9,7 @@ namespace HomeWork
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("=== Downloading HTML's page ===");
-            Console.Write("Write http addres (for example , https://example.com): ");
+            Console.Write("Write http addres (for example , https://example.com): ");  
             string? url = Console.ReadLine();
 
             if (string.IsNullOrWhiteSpace(url))
