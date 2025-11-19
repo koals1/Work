@@ -1,5 +1,4 @@
 ﻿// 1 --------------------------------
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 function compare(a, b)
 {
